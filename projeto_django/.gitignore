@@ -1,0 +1,5 @@
+core/__pycache__
+core/migrations
+eventif/__pycache__
+venv/
+comandos.txt
